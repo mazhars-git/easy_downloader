@@ -11,11 +11,11 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: coral;
+    background-color: #001d3d;
 }
 
 .wrapper{
-    background-color: #fff;
+    background-color: #edf6f9;
     border-radius: 5px;
     padding: 20px 25px 15px;
     width: 40%;
@@ -57,7 +57,7 @@ form button{
     font-size: 17px;
     margin-top: 20px;
     border-radius: 5px;
-    background: #726ae9;
+    background: #38b000;
     pointer-events: none;
 }
 
